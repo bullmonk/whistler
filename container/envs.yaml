@@ -1,0 +1,14 @@
+name: space
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pytorch::torchvision
+  - pytorch::pytorch
+  - numpy
+  - pandas
+  - pyyaml
+  - matplotlib
+  - scipy
+  - future
+  - captum
